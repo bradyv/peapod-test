@@ -29,9 +29,26 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>Hotfix</title>
+      <description>Lorem ipsum dolor sit amet.</description>
+      <pubDate>Thu, 12 Mar 2026 15:28:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Lorem ipsum dolor sit amet.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Lorem ipsum dolor sit amet.</p>]]>
+      </content:encoded>
+      <itunes:duration>1077</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[8dcd4e18-f3b5-11ef-a5ea-f700b01bb0277]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108077" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fix the Notification Logic</title>
       <description>Lorem ipsum dolor sit amet.</description>
-      <pubDate>Thu, 12 Mar 15:24:00 -0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 15:24:00 -0000</pubDate>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>Brady Valentino</itunes:author>
       <itunes:image href="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png"/>
