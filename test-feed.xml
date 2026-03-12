@@ -29,6 +29,23 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>Another hotfix</title>
+      <description>Use a new audio url to test downloading. Lorem ipsum dolor sit amet.</description>
+      <pubDate>Thu, 12 Mar 2026 15:58:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Use a new audio url to test downloading. Lorem ipsum dolor sit amet.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Use a new audio url to test downloading. Lorem ipsum dolor sit amet.</p>]]>
+      </content:encoded>
+      <itunes:duration>1078</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[8dcd4e18-f3b5-11ef-a5ea-f700b01bb0278]]></guid>
+      <enclosure url="https://rogers.simplecastaudio.com/005160cb-deeb-4cff-9d8f-0d8edaeef1e6/episodes/e8fbf878-159a-48c7-93d1-1a9be2c91b73/audio/128/default.mp3?aid=rss_feed&awCollectionId=005160cb-deeb-4cff-9d8f-0d8edaeef1e6&awEpisodeId=e8fbf878-159a-48c7-93d1-1a9be2c91b73&feed=fYqFr5h_" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Hotfix</title>
       <description>Lorem ipsum dolor sit amet.</description>
       <pubDate>Thu, 12 Mar 2026 15:28:00 -0000</pubDate>
