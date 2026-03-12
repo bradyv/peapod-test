@@ -1,1 +1,49 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://bvfeed.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>Peapod Test Feed</title>
+    <link>https://bradyv.github.io/peapod-test/test-feed.xml</link>
+    <language>en</language>
+    <copyright>© All rights reserved.</copyright>
+    <description>This is a simple xml file used to test json responses and new episode notifications in Peapod.</description>
+    <image>
+      <url>https://bradyv.github.io/peapod-test/conf-call.png</url>
+      <title>Peapod Test Feed</title>
+      <link>https://bvfeed.github.io</link>
+    </image>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>Brady Valentino</itunes:author>
+    <itunes:summary>This is a simple xml file used to test json responses and new episode notifications in Peapod.</itunes:summary>
+    <content:encoded>
+      <![CDATA[<p>This is a simple xml file used to test json responses and new episode notifications in Peapod.</p>]]>
+    </content:encoded>
+    <itunes:owner>
+      <itunes:name>Brady Valentino</itunes:name>
+      <itunes:email>bradyvalentino@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://bradyv.github.io/peapod-test/conf-call.png"/>
+    <itunes:category text="Sports">
+    </itunes:category>
+    <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
+    <item>
+      <title>Fix the Notification Logic</title>
+      <description>Lorem ipsum dolor sit amet.</description>
+      <pubDate>Thu, 12 Mar 15:24:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Lorem ipsum dolor sit amet.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Lorem ipsum dolor sit amet.</p>]]>
+      </content:encoded>
+      <itunes:duration>1076</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[8dcd4e18-f3b5-11ef-a5ea-f700b01bb0276]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108076" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
